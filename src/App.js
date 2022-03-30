@@ -9,7 +9,7 @@ export default function App() {
         <Weather defaultCity="Tehran" />
         <footer>
           <a
-            href="https://github.com/FereshteBahrami/portfolio-project"
+            href="https://github.com/FereshteBahrami/react-weather"
             target="_blank"
             rel="noreferrer"
           >
